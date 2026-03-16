@@ -1,0 +1,1 @@
+Hier geht es um ein Testprojekt zum Thema Python mit Discord Bots.
